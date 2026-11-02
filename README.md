@@ -9,7 +9,7 @@ Projet d'analyse de données de bout en bout : **2,6 millions de lignes** de ven
 
 ## 🎯 Contexte et problématique
 
-Fin 2020, la direction d'une enseigne e-commerce d'électronique au Kazakhstan prépare son budget 2021. Elle veut savoir :
+Fin 2020, la direction d'une enseigne e-commerce d'électronique au Kazakhstan prépare son budget 2021. <br> Elle veut savoir :
 
 1. Comment le chiffre d'affaires a-t-il évolué en 2020, notamment pendant le confinement ?
 2. Quelles catégories et quelles marques génèrent le CA ?
