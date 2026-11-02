@@ -4,7 +4,6 @@
 
 Projet d'analyse de données de bout en bout : **2,6 millions de lignes** de ventes d'une enseigne en ligne d'électronique et d'électroménager, nettoyées et analysées en **Python**, puis restituées dans un **tableau de bord Power BI** avec des recommandations business.
 
-![Aperçu du tableau de bord](images/page_1_vue_ensemble.png)
 
 ---
 
