@@ -32,7 +32,7 @@ Fin 2020, la direction d'une enseigne e-commerce d'électronique au Kazakhstan p
 
 ## 📁 Données
 
-- **Source :** [nom du dataset](LIEN_KAGGLE_ICI)
+- **Source :** [https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store/data] (LIEN_KAGGLE_ICI)
 - **Période :** janvier – novembre 2020
 - **Volume :** 2 633 521 lignes · 1,4 million de commandes · 25 000 produits
 - **Colonnes :** date, commande, produit, catégorie, marque, prix, client
