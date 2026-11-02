@@ -121,17 +121,10 @@ La découverte des colonnes décalées a permis de **récupérer 16 % des donné
 ---
 
 
-## ▶️ Reproduire le projet
-
-1. Télécharger le dataset et placer `kz.csv` dans `data/`.
-2. Installer les librairies : `pip install pandas matplotlib pyarrow jupyter`
-3. Exécuter les notebooks dans l'ordre : `01` → `02` → `03`.
-4. Ouvrir `dashboard/ventes_kz.pbix` dans Power BI Desktop, puis **Actualiser**.
-
----
-
 ## 👤 Auteur
 
-**Mpaka Brice** – Data Analyst
-[https://www.linkedin.com/in/bricempaka/](LIEN_LINKEDIN) · [https://bit.ly/Portfolio-Brice-Mpaka](LIEN_PORTFOLIO)
+**Mpaka Brice** – Data Analyst 
+https://bit.ly/Portfolio-Brice-Mpaka 
+https://www.linkedin.com/in/bricempaka/
+
 
