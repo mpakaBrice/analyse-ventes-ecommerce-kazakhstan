@@ -85,16 +85,6 @@ La découverte des colonnes décalées a permis de **récupérer 16 % des donné
 | **3 · Quoi et quelles marques ?** | Qu'est-ce qui fait le CA, et de qui dépend-on ? |
 | **4 · Panier et clients** | Comment augmenter le panier et fidéliser ? |
 
-<details>
-<summary>📸 Voir toutes les pages</summary>
-
-![Accueil](images/page_0_accueil.png)
-![Vue d'ensemble](images/page_1_vue_ensemble.png)
-![Quand vend-on ?](images/page_2_quand_vend_on.png)
-![Quoi et quelles marques ?](images/page_3_quoi_marques.png)
-![Panier et clients](images/page_4_panier_clients.png)
-
-</details>
 
 ---
 
