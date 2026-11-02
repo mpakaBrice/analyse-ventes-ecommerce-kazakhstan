@@ -123,8 +123,8 @@ La découverte des colonnes décalées a permis de **récupérer 16 % des donné
 
 ## 👤 Auteur
 
-**Mpaka Brice** – Data Analyst <b> <b>
-https://bit.ly/Portfolio-Brice-Mpaka <b> <b>
+**Mpaka Brice** – Data Analyst <br> <br>
+https://bit.ly/Portfolio-Brice-Mpaka <br> <br>
 https://www.linkedin.com/in/bricempaka/
 
 
