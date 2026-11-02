@@ -37,7 +37,6 @@ Fin 2020, la direction d'une enseigne e-commerce d'électronique au Kazakhstan p
 - **Volume :** 2 633 521 lignes · 1,4 million de commandes · 25 000 produits
 - **Colonnes :** date, commande, produit, catégorie, marque, prix, client
 
-> Les fichiers de données ne sont pas inclus dans ce dépôt (plus de 300 Mo). Télécharge-les depuis le lien ci-dessus et place `kz.csv` dans le dossier `data/`.
 
 ---
 
@@ -121,21 +120,6 @@ La découverte des colonnes décalées a permis de **récupérer 16 % des donné
 
 ---
 
-## 🗂️ Structure du projet
-
-```
-projet_kz/
-├── data/                     ← données (non incluses, voir « Données »)
-│   └── powerbi/              ← fichiers exportés pour Power BI
-├── notebooks/
-│   ├── 01_nettoyage.ipynb
-│   ├── 02_analyse_eda.ipynb
-│   └── 03_export_powerbi.ipynb
-├── dashboard/
-│   └── ventes_kz.pbix
-├── images/                   ← captures du tableau de bord
-└── README.md
-```
 
 ## ▶️ Reproduire le projet
 
@@ -148,6 +132,6 @@ projet_kz/
 
 ## 👤 Auteur
 
-**[Ton nom]** – Data Analyst
+**Mpaka Brice** – Data Analyst
 [LinkedIn](LIEN_LINKEDIN) · [Portfolio](LIEN_PORTFOLIO)
 
